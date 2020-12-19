@@ -1,19 +1,39 @@
-###_Bug: Is this abnormal?
+###_ISSUE TEMPLATE: Use for bugs, tasks, and feature requests. Label accordingly, using the labels on the right.
 
-###_Feature Request: What are you asking for?
 
-###_Severity 1: Not Severe
+###_Issue Type - is this a bug, task, or feature request?:
 
-###_Severity 2: A little Severe
 
-###_Severity 3: Moderatly Severe
+###_Severity (1-4; 1 - not severe, 4 - very severe):
+ 
 
-###_Severity 4: Very Severe
+###_Priority (1-4; 1 - lowest priority, 4 - highest priority):
 
-###_Priority 1: Think about adding
 
-###_Priority 2: Very useful for later
+###_Synopsis - describe bug/task/feature request, in more detail:
 
-###_Priority 3: Should start looking into
 
-###_Priority 4: Needs ASAP
+
+
+
+
+###_Expected Behavior - what the behavior is supposed to be, for bug/task/FR:
+
+
+
+
+
+
+###_Actual Behavior - what the behavior is instead, for bugs only:
+
+
+
+
+
+
+###_Steps to reproduce/view issue:
+
+
+
+
+###_Other Notes:
